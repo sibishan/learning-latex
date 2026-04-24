@@ -3,3 +3,5 @@
 *.synctex.gz
 *.tex.bak
 .DS_Store
+*.out
+*.toc
